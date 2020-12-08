@@ -38,12 +38,13 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			</div>
 			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav pull-right mainNav">
-					<li class="active"><a href="{{ url('/home')}}">Home</a></li>
-        			<li class="active"><a href="{{ url('/about')}}">About</a></li>
+					{{-- <li class="active"><a href="{{ url('/home')}}">Home</a></li> --}}
+					<li class="{{ (request()->is('home')) ? 'active' : '' }}"><a href="{{ url('/home')}}">Home</a></li>
+        			<li class="{{ (request()->is('about')) ? 'active' : '' }}"><a href="{{ url('/about')}}">About</a></li>
 					<li><a href="#">Activies</a></li>
 					<li><a href="#">Team</a></li>
           <li><a href="#">Gallery</a></li>
-          	<li><a href="{{ url('/contact')}}">contact</a></li>
+          	<li class="{{ (request()->is('contact')) ? 'active' : '' }}"><a href="{{ url('/contact')}}">contact</a></li>
 					<li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <b class="caret"></b></a>
 						<ul class="dropdown-menu">
@@ -114,7 +115,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								<a href="#">Home</a> | 
 								<a href="#">About</a> |
 								<a href="#">Activities</a> |
-								<a href="#">Price</a> |
+								<a href="#">voluteers</a> |
 								<a href="#">Gallery</a> |
 								<a href="#">Contact Us</a>
 							</p>
