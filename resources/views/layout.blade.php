@@ -39,7 +39,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav pull-right mainNav">
 					{{-- <li class="active"><a href="{{ url('/home')}}">Home</a></li> --}}
-					<li class="{{ (request()->is('home')) ? 'active' : '' }}"><a href="{{ url('/home')}}">Home</a></li>
+					<li class="{{ (request()->is('/')) ? 'active' : '' }}"><a href="{{ url('/')}}">Home</a></li>
         			<li class="{{ (request()->is('about')) ? 'active' : '' }}"><a href="{{ url('/about')}}">About</a></li>
 					<li><a href="#">Activies</a></li>
 					<li><a href="#">Team</a></li>
