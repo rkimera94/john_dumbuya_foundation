@@ -56,8 +56,8 @@
 								<img src="assets/images/3.png" alt="" />
 							</div><!--icon box top -->
 							<h4>Donations</h4>
-							<p> Donate now to help in giving children quality eductiong... Through your donations, John Dumbuya chrity foudnation is ale to extent help to less privileged children to obbtain quality education.</p>
-						<p><a href="{{url('#')}}"><em>Read More</em></a></p>
+							<p> Donate now to help in giving children quality education... Through your donations, John Dumbuya chrity foudnation is able to extend help to less privileged children to obtain quality education.</p>
+						<p><a href="{{url('#')}}"><em>Donate</em></a></p>
 						</div><!--grey box -->
 					</div><!--/span3-->
 					<div class="col-md-3">
@@ -65,9 +65,9 @@
 							<div class="icon-box-top grey-box-icon-pos">
 								<img src="assets/images/4.png" alt="" />
 							</div><!--icon box top -->
-							<h4>Meet our Team</h4>
-							<p></p>
-     						<p><a href="#"><em>Read More</em></a></p>
+							<h4>Voluteering</h4>
+							<p>The John Dumbuya foundation was started or stimulated owing to the deplorable Condition of the community which is suffering from water  facility, good roads and other basic amenities.</p>
+     						<p><a href="#"><em>Voluteer</em></a></p>
 						</div><!--grey box -->
 					</div><!--/span3-->
 					<div class="col-md-3">
@@ -76,8 +76,8 @@
 								<img src="assets/images/3.png" alt="" />
 							</div><!--icon box top -->
 							<h4>Activities</h4>
-							<p></p>
-     						<p><a href="#"><em>Read More</em></a></p>
+							<p>Our Activities include gifting handworking school children.John Dumbuya Charity supports children through uplifting talent in the different communities.</p>
+     						<p><a href="#"><em>View Activities</em></a></p>
 						</div><!--grey box -->
 					</div><!--/span3-->
 					<div class="col-md-3">
@@ -86,8 +86,8 @@
 								<img src="assets/images/4.png" alt="" />
 							</div><!--icon box top -->
 							<h4>Trainings</h4>
-							<p></p>
-     						<p><a href="#"><em>Read More →</em></a></p>
+							<p> Projects be for the purposes of education or training for young people up to the age of 25 It's a registered organization under the Freetown city council. </p>
+     						<p><a href="#"><em>Projects →</em></a></p>
 						</div><!--grey box -->
 					</div><!--/span3-->
 				</div>

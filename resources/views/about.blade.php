@@ -22,6 +22,12 @@
                 <h3>THE FOUNDATION</h3>
                 <strong></strong>
                 <p>The John Dumbuya Charity Foundation is a nonprofit organization based at Leicester road community. </p>
+                <p>The John Dumbuya foundation was an inspiration and an idea of it's founder John Dumbuya ,a professional footballer based in the United States.  </p>
+                <p>The foundation was founded in 2020, launched on the 25th of September the same year at leceister road , Sierra Leone in West Africa.Fully registered non profit organization that operates to help the unprevilleged to attain a good standard of living.</p>
+                <p>The John Dumbuya foundation was started or stimulated owing to the deplorable Condition of the community which is suffering from water  facility , good roads and other basic amenities.</p>
+                <p>John's emotions and urge were driven by the failure of most of the children to attend school and thus the mission of the foundation that seeks to empower struggling communities especially those in need of education and empower youths on their path to attain independence and self sufficiency.</p>
+
+
                 <strong>MISSION</strong>
                 <p>Our mission is to nuture the inherent potential of every child through empowering the economically under previlleged to attain quality education without discrimination.</p>
                 <strong>AIM</strong>
@@ -84,12 +90,12 @@
                         <!-- Image Hover Block -->
                         <div class="member-img">
                             <!-- Image  -->
-                            <img class="img-responsive" src="assets/images/photo-1.jpg" alt="">
+                            <img class="img-responsive" src="assets/images/photo-3.jpg" alt="">
                         </div>
                         <!-- Member Details -->
-                        <h4>John Doe</h4>
+                        <h4>JOHN DUMBUYA</h4>
                         <!-- Designation -->
-                        <span class="pos">CEO</span>
+                        <span class="pos">FOUNDER</span>
                         <div class="team-socials">
                             <a href="#"><i class="fa fa-facebook"></i></a>
                             <a href="#"><i class="fa fa-google-plus"></i></a>
@@ -105,12 +111,12 @@
                         <!-- Image Hover Block -->
                         <div class="member-img">
                             <!-- Image  -->
-                            <img class="img-responsive" src="assets/images/photo-2.jpg" alt="">
+                            <img class="img-responsive" src="assets/images/photo-3.jpg" alt="">
                         </div>
                         <!-- Member Details -->
-                        <h4>Larry Doe</h4>
+                        <h4>John</h4>
                         <!-- Designation -->
-                        <span class="pos">Director</span>
+                        <span class="pos">Programs Coordinator</span>
                         <div class="team-socials">
                             <a href="#"><i class="fa fa-facebook"></i></a>
                             <a href="#"><i class="fa fa-google-plus"></i></a>
@@ -131,7 +137,7 @@
                         <!-- Member Details -->
                         <h4>Ranith Kays</h4>
                         <!-- Designation -->
-                        <span class="pos">Manager</span>
+                        <span class="pos">Porject Manager</span>
                         <div class="team-socials">
                             <a href="#"><i class="fa fa-facebook"></i></a>
                             <a href="#"><i class="fa fa-google-plus"></i></a>
@@ -147,12 +153,12 @@
                         <!-- Image Hover Block -->
                         <div class="member-img">
                             <!-- Image  -->
-                            <img class="img-responsive" src="assets/images/photo-4.jpg" alt="">
+                            <img class="img-responsive" src="assets/images/photo-3.jpg" alt="">
                         </div>
                         <!-- Member Details -->
-                        <h4>Joan Ray</h4>
+                        <h4>John</h4>
                         <!-- Designation -->
-                        <span class="pos">Creative</span>
+                        <span class="pos">Trainer</span>
                         <div class="team-socials">
                             <a href="#"><i class="fa fa-facebook"></i></a>
                             <a href="#"><i class="fa fa-google-plus"></i></a>
